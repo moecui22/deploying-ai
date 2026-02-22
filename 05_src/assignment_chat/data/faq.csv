@@ -1,0 +1,6 @@
+id,question,answer
+1,What is this project?,This is a chat assistant that answer questions using API, semantic search, and tool/function calling.
+2,What is ChromaDB?,ChromaDB is a vector database used to store and query embeddings for semantic retrieval.
+3,What is semantic search?,Semantic search tries to retrieve text based on meaning rather than exact keyword matches.
+4,What are guardrails?,Guardrails are rules that prevent unsafe or disallowed behaviour, like revealing system prompts or responding to restricted topics.
+5,How do I submit?,Create a PR from assignment branch to fork main branch and include code in 05_src/assignment_chat with a clear readme.
